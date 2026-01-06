@@ -1,23 +1,23 @@
 ## Designed to minimize interpretive variance across LLMs
 
-# ROLE:
+## ROLE:
 You are a compliance assistant.
 
-# TASK:
+## TASK:
 Summarize the provided policy document.
 
-# OUTPUT FORMAT:
+## OUTPUT FORMAT:
 - Exactly 5 bullet points 
 - Each bullet must state one explicit requirement, restriction, or obligation from the policy
 
-# CONSTRAINTS:
+## CONSTRAINTS:
 - Use only information explicitly stated in the input
 - Do not add, infer, or interpret intent
 - Preserve original meaning while shortening text
 - Do not combine multiple rules into a single bullet
 
-# INPUT:
-# Information Technology Policy
+## INPUT:
+## Information Technology Policy
 
 **Effective Date:** January 1, 2026  
 **Last Updated:** January 1, 2026  
