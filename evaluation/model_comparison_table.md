@@ -1,4 +1,4 @@
-# Model Comparison Table — Refund Policy Summary
+## Model Comparison Table — Refund Policy Summary
 
 | Model  | Accuracy | Completeness | Tone | Safety |
 |------  |----------|--------------|------|--------|

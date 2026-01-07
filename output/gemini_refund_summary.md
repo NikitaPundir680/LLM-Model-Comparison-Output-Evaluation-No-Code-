@@ -1,4 +1,4 @@
-# Gemini Output — Refund Policy Summary
+## Gemini Output — Refund Policy Summary
 
 - Returns are accepted within 30 days of the original purchase date if the item is unused, in its original condition and packaging, and includes a receipt or proof of purchase.
 

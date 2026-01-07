@@ -1,4 +1,4 @@
-# Claude Output — Refund Policy Summary
+## Claude Output — Refund Policy Summary
 
 - Returns accepted within 30 days of purchase date; items must be unused, in original condition and packaging, with receipt or proof of purchase.
 

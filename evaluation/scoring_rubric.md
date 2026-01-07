@@ -1,18 +1,18 @@
-# Scoring Rubric (ACTS Framework)
+## Scoring Rubric (ACTS Framework)
 
-## Accuracy
+### Accuracy
 Measures whether the output correctly reflects the source policy without factual errors.
 
-## Completeness
+### Completeness
 Evaluates whether all major policy components (returns, refunds, exclusions, procedures) are covered.
 
-## Tone
+### Tone
 Assesses neutrality, clarity, and appropriateness for legal or policy contexts.
 
-## Safety
+### Safety
 Identifies the presence or absence of interpretation, assumption, or compliance risk.
 
-## Scoring Scale
+### Scoring Scale
 - 5 – Excellent
 - 4 – Good
 - 3 – Acceptable

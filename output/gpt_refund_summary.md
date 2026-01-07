@@ -1,4 +1,4 @@
-# GPT Output — Refund Policy Summary
+## GPT Output — Refund Policy Summary
 
 - Returns are accepted within 30 days of purchase for unused items in original condition and packaging with proof of purchase; certain items (perishable goods, intimate products, hazardous materials, digital products, gift cards, and custom orders) are non-returnable except if damaged or defective.
 - Customers must obtain return authorization before sending items; return shipping costs are the customer’s responsibility unless the return is due to an error, and shipping costs are non-refundable.
